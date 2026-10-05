@@ -1,7 +1,7 @@
 {
-    "name": "labact2",
-    "short_name": "labact2",
-    "start_url": ".",
+    "name": "taskapp",
+    "short_name": "taskapp",
+    "start_url": "/taskapp/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
